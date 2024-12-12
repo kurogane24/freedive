@@ -13,7 +13,12 @@ html {
     font-family:'Times New Roman', Times, serif ;
     text-align:center;
   }
+img {
+  height:150px;
+  widht:200px
 
+}
+  
   p.hello {font: small-caps italic 20px georgia, serif;}
   
    /* h2{
